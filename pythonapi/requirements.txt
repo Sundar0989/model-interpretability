@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn==0.22.2
+requests
+flask
+shap
+numba==0.48

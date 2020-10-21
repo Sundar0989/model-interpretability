@@ -1,0 +1,8 @@
+streamlit
+requests
+shap
+numba==0.48
+pandas
+numpy
+matplotlib
+seaborn
