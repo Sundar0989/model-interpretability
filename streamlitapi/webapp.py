@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 
 st.title('Python Real Time Scoring API + Model Explainer')
 
-# PySpark API endpoint
+# Python API endpoint
 url = 'http://pythonapi:5000'
 endpoint = '/api/'
 
